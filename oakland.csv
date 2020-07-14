@@ -1,0 +1,29 @@
+﻿Metric,ST,ENTITY,CRDC ID,GROUP,SEX,AME,ASI,HI PAC,BLA,HIS,WHI,2+,TOT,504,LEP
+"Law Referral, W/Out Dis",CA,Oakland Unified,"""0628050""",Law,F,0,2,0,54,24,0,0,80,0,0
+"Law Referral, W/Out Dis",CA,Oakland Unified,"""0628050""",Law,M,0,0,0,58,39,0,0,97,0,26
+"Law Referral, W/Out Dis",US,US,N/A,Law,F,1088,651,175,16658,12625,16212,1958,49367,0,2577
+"Law Referral, W/Out Dis",US,US,N/A,Law,M,1664,1791,382,27202,25787,37370,3630,97826,0,6843
+"Law Referral, With Dis",CA,Oakland Unified,"""0628050""",Law,F,0,0,0,14,0,0,0,14,0,0
+"Law Referral, With Dis",CA,Oakland Unified,"""0628050""",Law,M,0,0,0,38,0,0,0,38,0,0
+"Law Referral, With Dis",US,US,N/A,Law,F,228,55,26,4305,2400,3988,435,11437,1193,661
+"Law Referral, With Dis",US,US,N/A,Law,M,647,309,139,13740,9158,15817,1499,41309,3689,2706
+"School Related Arrest, W Dis",CA,Oakland Unified,"""0628050""",Law,F,0,0,0,0,0,0,0,0,0,0
+"School Related Arrest, W Dis",CA,Oakland Unified,"""0628050""",Law,M,0,0,0,6,0,0,0,6,0,0
+"School Related Arrest, W Dis",US,US,N/A,Law,F,55,11,11,1225,595,916,120,2933,272,175
+"School Related Arrest, W Dis",US,US,N/A,Law,M,140,45,79,3789,2193,3595,376,10217,815,658
+"School Related Arrest, W/Out Dis",CA,Oakland Unified,"""0628050""",Law,F,0,0,0,2,2,0,0,4,0,0
+"School Related Arrest, W/Out Dis",CA,Oakland Unified,"""0628050""",Law,M,0,0,0,14,4,0,0,18,0,0
+"School Related Arrest, W/Out Dis",US,US,N/A,Law,F,286,95,92,5170,2839,3679,454,12615,0,565
+"School Related Arrest, W/Out Dis",US,US,N/A,Law,M,419,303,181,8136,6531,8576,782,24928,0,1744
+Students With Disabilities served under IDEA,CA,Oakland Unified,"""0628050""",ENR,F,<=2,16,<=2,240,241,23,12,532,<=2,206
+Students With Disabilities served under IDEA,CA,Oakland Unified,"""0628050""",ENR,M,<=2,154,<=2,682,639,71,34,1580,<=2,623
+Students With Disabilities served under IDEA,US,US,N/A,ENR,F,30188,49977,6253,387079,520370,1063691,73589,2131147,<=2,213396
+Students With Disabilities served under IDEA,US,US,N/A,ENR,M,56446,108722,13569,781601,1028383,2090193,146587,4225501,<=2,428197
+"Students With Disabilities served under Section 504, Not IDEA",CA,Oakland Unified,"""0628050""",ENR,F,2,12,0,53,45,46,10,168,168,0
+"Students With Disabilities served under Section 504, Not IDEA",CA,Oakland Unified,"""0628050""",ENR,M,0,16,2,69,54,56,20,217,217,0
+"Students With Disabilities served under Section 504, Not IDEA",US,US,N/A,ENR,F,2982,8758,897,54803,86134,275057,14991,443622,443622,18598
+"Students With Disabilities served under Section 504, Not IDEA",US,US,N/A,ENR,M,4293,11832,1522,88534,133300,428762,23679,691922,691922,31878
+Total enrollment,CA,Oakland Unified,"""0628050""",ENR,F,65,2516,208,4963,7471,1996,892,18111,150,5566
+Total enrollment,CA,Oakland Unified,"""0628050""",ENR,M,82,2883,241,5333,8006,2048,941,19534,177,6487
+Total enrollment,US,US,N/A,ENR,F,256255,1222835,94405,3807651,6350766,11929218,857418,24518548,443622,2356125
+Total enrollment,US,US,N/A,ENR,M,268475,1275752,100262,3983106,6677246,12740200,888978,25934019,691922,2745025
